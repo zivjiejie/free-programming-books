@@ -1,4 +1,4 @@
-### Index
+<h3 id="index">Index</h3>
 
 * [0 - Language Agnostic](#0---language-agnostic)
   * [Облачные Вычисления](#Облачные-вычисления)
@@ -73,7 +73,7 @@
 * [Vim](#vim)
 
 
-### 0 - Language Agnostic
+<h3 id="0---language-agnostic">0 - Language Agnostic</h3>
 
 * [3D-моделирование в Blender](https://younglinux.info/blender.php) - C. Шапошникова
 * [Введение в методы машинной обработки данных](https://mkurnosov.net/docs/dsa-book-2020.pdf) - Курносов М.Г. (PDF)
@@ -90,35 +90,35 @@
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf) (PDF)
 
 
-#### Облачные вычисления
+<h4 id="облачные-вычисления">Облачные вычисления</h4>
 
 * [Разработка мультитенантных приложений для облака, издание 3-е](http://www.microsoft.com/ru-ru/download/details.aspx?id=29263)
 
 
-#### Парадигмы программирования
+<h4 id="парадигмы-программирования">Парадигмы программирования</h4>
 
 * [Введение в функциональное программирование](http://funprog-ru.github.io) - John Harrison
 * [Практика функционального программирования](http://fprog.ru) - журнал
 
 
-#### Работа с сетью
+<h4 id="работа-с-сетью">Работа с сетью</h4>
 
 * [Наука о Сетях](http://networksciencebook.com) - Альберто Лазло-Барабаси
 * [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) - Даниэль Штенберг (PDF)
 * [IPv6 для знатоков IPv4](https://sites.google.com/site/yartikhiy/home/ipv6book) - Ярослав Тихий (PDF, HTML, EPUB)
 
 
-#### Управление конфигурациями
+<h4 id="управление-конфигурациями">Управление конфигурациями</h4>
 
 * [Пособие по Ansible](https://github.com/freetonik/ansible-tuto-rus) - Michel Blanc
 
 
-#### Экосистема открытого исходного кода
+<h4 id="экосистема-открытого-исходного-кода">Экосистема открытого исходного кода</h4>
 
 * [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)
 
 
-### Assembly
+<h3 id="assembly">Assembly</h3>
 
 * [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C) - Викиучебник
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
@@ -126,12 +126,12 @@
 * [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) - Андрей Столяров (PDF)
 
 
-### Bash
+<h3 id="bash">Bash</h3>
 
 * [Advanced Bash-Scripting Guide](http://rus-linux.net/MyLDP/BOOKS/abs-guide/flat/abs-book.html)
 
 
-### C
+<h3 id="c">C</h3>
 
 * [Заметки о языке программирования Си/Си++](https://yurichev.com/writings/C-notes-ru.pdf) - Денис Юричев (PDF)
 * [Краткое руководство Beej к GDB](https://paintingvalley.com/ru-bggdb) - (HTML)
@@ -143,7 +143,7 @@
 * [Язык Си в примерах](https://ru.wikibooks.org/wiki/Язык_Си_в_примерах) - Викиучебник
 
 
-### <a name="csharp"></a>C\#
+<h3 id="a-namecsharpac"><a name="csharp"></a>C\#</h3>
 
 * [Паттерны проектирования в C# и .NET](https://metanit.com/sharp/patterns) - Евгений Попов
 * [Полное руководство по языку программирования С# 7.0 и платформе .NET 4.7](https://metanit.com/sharp/tutorial) - Евгений Попов
@@ -151,7 +151,7 @@
 * [Design Patterns via C#](http://itvdn.com/ru/patterns) - Александр Шевчук, Дмитрий Охрименко, Андрей Касьянов (PDF) *(Требуется аккаунт)*
 
 
-### <a name="cpp"></a>C++
+<h3 id="a-namecppac"><a name="cpp"></a>C++</h3>
 
 * [Введение в язык программирования С++](http://lib.ru/CPPHB/cpptut.txt_with-big-pictures.html) - Бьерн Страуструп
 * [Введение в язык Си++](http://stolyarov.info/books/cppintro) - Андрей Столяров (PDF)
@@ -161,33 +161,33 @@
 * [Уроки по OpenGL 3](https://code.google.com/archive/p/gl33lessons/) - Гуревич Артём
 
 
-### Clojure
+<h3 id="clojure">Clojure</h3>
 
 * [Введение в Clojure](http://alexott.net/ru/clojure/clojure-intro) - Алексей Отт
 
 
-### CoffeeScript
+<h3 id="coffeescript">CoffeeScript</h3>
 
 * [Документация CoffeeScript](http://cidocs.ru/coffeescript) - Jeremy Ashkenas
 * [The Little Book on CoffeeScript](https://github.com/andrew--r/the-little-book-on-coffeescript) - перевод Андрея Романова
 
 
-### Elasticsearch
+<h3 id="elasticsearch">Elasticsearch</h3>
 
 * [Уроки по Elasticsearch](https://codedzen.ru/category/uroki/elasticsearch)
 
 
-### Elixir
+<h3 id="elixir">Elixir</h3>
 
 * [Уроки программирования на языке Elixir](http://elixirschool.com/ru)
 
 
-### Erlang
+<h3 id="erlang">Erlang</h3>
 
 * [Программирование на Эрланге](https://github.com/dyp2000/Russian-Armstrong-Erlang) - Джо Армстронг
 
 
-### Git
+<h3 id="git">Git</h3>
 
 * [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru) - Ben Lynn
 * [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
@@ -195,7 +195,7 @@
 * [Pro Git](http://git-scm.com/book/ru/v2)
 
 
-### Go
+<h3 id="go">Go</h3>
 
 * [Введение в программирование на Go](http://golang-book.ru) - Калеб Докси
 * [Руководство по языку Go](https://metanit.com/go/tutorial) - Евгений Попов
@@ -205,7 +205,7 @@
 * [The Little Go Book (перевод)](https://sefus.ru/little-go-book) - Karl Seguin, Roman Dolgolopov, Evgeny Popov, Alexander Dunin ([HTML](https://github.com/sefus/the-little-go-book/blob/master/ru/go.md), [EPUB](https://sefus.ru/dl/go.epub))
 
 
-### Haskell
+<h3 id="haskell">Haskell</h3>
 
 * [О Haskell по-человечески](https://www.ohaskell.guide) - Денис Шевченко
 * [Учебник по Haskell](http://anton-k.github.io/ru-haskell-book/book/home.html) - Антон Холомьёв
@@ -215,7 +215,7 @@
 * [Haskell: введение в функциональное программирование](https://wiki.nsunc.com/_export/html/haskell) - В.Н. Власов
 
 
-### HTML / CSS
+<h3 id="html--css">HTML / CSS</h3>
 
 * [Руководство по HTML5 и CSS3](https://metanit.com/web/html5) - Евгений Попов
 * [Справочник по HTML](http://htmlbook.ru/html) - Влад Мержевич
@@ -224,12 +224,12 @@
 * [HTML и HTML5](https://html5book.ru/html-html5) - Елена Назарова
 
 
-#### Bootstrap
+<h4 id="bootstrap">Bootstrap</h4>
 
 * [Bootstrap 4](http://getbootstrap.ru/docs/v4-alpha)
 
 
-### Java
+<h3 id="java">Java</h3>
 
 * [Руководство по языку программирования Java](https://metanit.com/java/tutorial) - Евгений Попов
 * [Руководство по Java Core](http://proselyte.net/tutorials/java-core) - Евгений Сулейманов
@@ -245,50 +245,50 @@
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 
 
-#### Android
+<h4 id="android">Android</h4>
 
 * [Программирование под Android](https://metanit.com/java/android) - Евгений Попов
 * [Уроки по Android](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 
 
-#### EasyMock
+<h4 id="easymock">EasyMock</h4>
 
 * [EasyMock 3](https://easyjava.ru/testirovanie/easymock/)
 
 
-#### Hibernate
+<h4 id="hibernate">Hibernate</h4>
 
 * [Руководство по Hibernate](http://proselyte.net/tutorials/hibernate-tutorial) - Евгений Сулейманов
 * [Hibernate](https://easyjava.ru/data/hibernate/)
 
 
-#### JDBC
+<h4 id="jdbc">JDBC</h4>
 
 * [Руководство по JDBC](http://proselyte.net/tutorials/jdbc) - Евгений Сулейманов
 * [JDBC и Spring JDBC](https://easyjava.ru/data/jdbc/)
 
 
-#### JUnit
+<h4 id="junit">JUnit</h4>
 
 * [Руководство по JUnit](http://proselyte.net/tutorials/junit) - Евгений Сулейманов
 * [JUnit 4](https://easyjava.ru/testirovanie/junit-2/)
 
 
-#### Maven
+<h4 id="maven">Maven</h4>
 
 * [Руководство по Maven](http://proselyte.net/tutorials/maven) - Евгений Сулейманов
 * [Apache Maven](https://easyjava.ru/ekosistema/sredstva-sborki/apache-maven/)
 * [Maven Tutorial](https://coderlessons.com/tutorials/java-tekhnologii/uchitsia-maven/maven-nastroika-sredy) - CoderLessons.com
 
 
-#### Spring
+<h4 id="spring">Spring</h4>
 
 * [Руководство по Spring](http://proselyte.net/tutorials/spring-tutorial-full-version) - Евгений Сулейманов
 * [Spring Framework](https://easyjava.ru/spring/)
 * [Spring MVC Tutorial](https://coderlessons.com/tutorials/java-tekhnologii/uchis-spring-mvc/spring-mvc-tutorial) - CoderLessons.com
 
 
-### JavaScript
+<h3 id="javascript">JavaScript</h3>
 
 * [Вы не знаете JS (серия книг)](https://github.com/azat-io/you-dont-know-js-ru) - Кайл Симпсон
 * [Выразительный JavaScript](https://github.com/karmazzin/eloquentjavascript_ru) - Marijn Haverbeke
@@ -302,7 +302,7 @@
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru) - Иво Ветцель
 
 
-#### AngularJS
+<h4 id="angularjs">AngularJS</h4>
 
 > :information_source: See also &#8230; [Angular](#angular)
 
@@ -311,7 +311,7 @@
 * [AngularJS Tutorial](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-angularjs/angularjs-tutorial) - CoderLessons.com
 
 
-#### jQuery
+<h4 id="jquery">jQuery</h4>
 
 * [Онлайн-книга "Изучаем jQuery"](https://metanit.com/web/jquery) - Евгений Попов
 * [Русская документация по API jQuery](https://jquery-docs.ru)
@@ -319,19 +319,19 @@
 * [JQuery Tutorial](https://coderlessons.com/tutorials/veb-razrabotka/jquery/jquery-tutorial) - CoderLessons.com
 
 
-#### Node.js
+<h4 id="nodejs">Node.js</h4>
 
 * [Руководство по Node.js](https://metanit.com/web/nodejs) - Евгений Попов
 * [Учебник Node.js](https://coderlessons.com/tutorials/veb-razrabotka/uchebnik-node-js/uchebnik-node-js) - CoderLessons.com
 * [Node.js для начинающих](http://nodebeginner.ru) - Manuel Kiessling
 
 
-#### Nuxt.js
+<h4 id="nuxtjs">Nuxt.js</h4>
 
 * [Перевод документации](https://ru.nuxtjs.org)
 
 
-#### React
+<h4 id="react">React</h4>
 
 * [Перевод документации](https://learn-reactjs.ru/home)
 * [Путь к изучению React](https://leanpub.com/the-road-to-learn-react-russian) - Алексей Пыльцын (PDF, ePub, MOBI) *(Требуется аккаунт на Leanpub или действительный адрес электронной почты)*
@@ -341,39 +341,39 @@
 * [Учебник ReactJS](https://coderlessons.com/tutorials/veb-razrabotka/uznaite-reactjs/uchebnik-reactjs) - CoderLessons.com
 
 
-#### Vue.js
+<h4 id="vuejs">Vue.js</h4>
 
 * [Перевод документации](https://ru.vuejs.org)
 * [Руководство по Vue.js](https://metanit.com/web/vuejs) - Евгений Попов
 * [VueJS Учебник](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-vuejs/vuejs-uchebnik) - CoderLessons.com
 
 
-### Kotlin
+<h3 id="kotlin">Kotlin</h3>
 
 * [Руководство по языку Kotlin](http://kotlinlang.ru)
 * [Руководство по языку Kotlin](https://metanit.com/java/kotlin) - Евгений Попов
 * [Учебник по Котлину](https://coderlessons.com/tutorials/mobilnaia-razrabotka/uchebnik-kotlin/1-uchebnik-po-kotlinu) - CoderLessons.com
 
 
-### LaTeX
+<h3 id="latex">LaTeX</h3>
 
 * [LaTeX за три дня](http://www.stolyarov.info/books/pdf/latex3days.pdf) - Андрей Столяров (PDF)
 * [LaTeX, GNU/Linux и русский стиль (сборник статей)](http://www.inp.nsk.su/~baldin/LaTeX/index.html)
 
 
-### Lisp
+<h3 id="lisp">Lisp</h3>
 
 * [Common Lisp Cookbook (перевод)](http://lisper.ru/wiki/Cookbook)
 * [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
 * [Practical Common Lisp (перевод)](http://lisper.ru/pcl/) (PDF)
 
 
-### MetaPost
+<h3 id="metapost">MetaPost</h3>
 
 * [Создание иллюстраций в MetaPost](http://www.inp.nsk.su/~baldin/mpost/index.html)
 
 
-### .NET
+<h3 id="net">.NET</h3>
 
 * [Руководство по ADO.NET и работе с базами данных](https://metanit.com/sharp/adonet) - Евгений Попов
 * [Руководство по ASP.NET Core 2.0](https://metanit.com/sharp/aspnet5) - Евгений Попов
@@ -383,28 +383,28 @@
 * [Руководство по Entity Framework](https://metanit.com/sharp/entityframework) - Евгений Попов
 
 
-### NoSQL
+<h3 id="nosql">NoSQL</h3>
 
 * [Маленькая книга о MongoDB](http://www.pvsm.ru/download/mongodb-ru.pdf) - Карл Сегуин (PDF)
 * [Маленькая книга о Redis](https://github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md) - Карл Сегуин
 * [Руководство по MongoDB](http://proselyte.net/tutorials/mongodb) - Евгений Сулейманов
 
 
-### Objective-C
+<h3 id="objective-c">Objective-C</h3>
 
 * [Хрестоматия iOS паттернов](https://maleevdimka.files.wordpress.com/2013/04/ios-patterns-cliff-notes2.pdf) (PDF)
 * [Цикл статей разработки под Apple iOS](http://habrahabr.ru/post/149090/)
 * [Become an XCoder](https://yadi.sk/d/ugz7jW4RXLGTN)
 
 
-### Perl
+<h3 id="perl">Perl</h3>
 
 * [Введение в Perl](http://www.opennet.ru/docs/RUS/perl-maslov/) - Маслов Владимир Викторович
 * [Краткий экскурс в Perl-программирование](http://www.opennet.ru/docs/RUS/perl_help/) - Докучаев Дмитрий
 * [Pragmatic Perl](http://pragmaticperl.com) - журнал
 
 
-### PHP
+<h3 id="php">PHP</h3>
 
 * [Архитектура сложных веб-приложений. С примерами на Laravel](https://github.com/adelf/acwa_book_ru) - Adel Faizrakhmanov (PDF, EPUB, Kindle)
 * [Руководство по PHP](http://docs.php.net/manual/ru)
@@ -415,33 +415,33 @@
 * [PHP: Правильный Путь](http://getjump.github.io/ru-php-the-right-way)
 
 
-#### CakePHP
+<h4 id="cakephp">CakePHP</h4>
 
 * [Руководство](https://book.cakephp.org/3.0/ru/index.html)
 * [CakePHP Учебное пособие](https://coderlessons.com/tutorials/veb-razrabotka/uznaite-cakephp/cakephp-uchebnoe-posobie)
 
 
-#### CodeIgniter
+<h4 id="codeigniter">CodeIgniter</h4>
 
 * [CodeIgniter](http://codeigniter3.info) - Игорь Букша
 * [CodeIgniter — Основные понятия](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-codeigniter/codeigniter-osnovnye-poniatiia)
 * [CodeIgniter фреймворк](https://coderlessons.com/tutorials/veb-razrabotka/codeigniter-freimvork/codeigniter-freimvork)
 
 
-#### Laravel
+<h4 id="laravel">Laravel</h4>
 
 * [Документация 5.x](https://laravel.ru/docs/v5)
 * [Перевод документации](http://laravel.su/docs)
 * [Учебник Laravel](https://coderlessons.com/tutorials/veb-razrabotka/vyuchi-laravel/uchebnik-laravel)
 
 
-#### Symfony
+<h4 id="symfony">Symfony</h4>
 
 * [Учебник по Symfony](https://coderlessons.com/tutorials/veb-razrabotka/uchit-symfony/uchebnik-po-symfony)
 * [Symfony 5. Быстрый старт](https://symfony.com/doc/5.0/the-fast-track/ru/index.html)
 
 
-### Python
+<h3 id="python">Python</h3>
 
 * [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
 * [Основы программирования на Python](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (PDF)
@@ -458,34 +458,34 @@
 * [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter.php) - C. Шапошникова
 
 
-#### Django
+<h4 id="django">Django</h4>
 
 * [Руководство по веб-фреймворку Django](https://metanit.com/python/django) - Евгений Попов
 * [Руководство Django Girls](https://tutorial.djangogirls.org/ru) (1.11) (HTML) (:construction: *в процессе написания*)
 
 
-#### Jupyter Notebook
+<h4 id="jupyter-notebook">Jupyter Notebook</h4>
 
 * [Учебник по Jupyter](https://coderlessons.com/tutorials/python-technologies/jupyter/uchebnik-po-jupyter) - CoderLessons.com
 
 
-#### NumPy
+<h4 id="numpy">NumPy</h4>
 
 * [NumPy Tutorial](https://coderlessons.com/tutorials/python-technologies/uchitsia-numpy/numpy-tutorial) - CoderLessons.com
 
 
-#### Pycharm
+<h4 id="pycharm">Pycharm</h4>
 
 * [Pycharm — Введение](https://coderlessons.com/tutorials/python-technologies/uznaite-pycharm/pycharm-vvedenie) - CoderLessons.com
 
 
-### R
+<h3 id="r">R</h3>
 
 * [Анализ данных с R](http://www.inp.nsk.su/~baldin/DataAnalysis/index.html)
 * [Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.](http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf) (PDF)
 
 
-### Ruby
+<h3 id="ruby">Ruby</h3>
 
 * [Руководство пользователя](http://linux.yaroslavl.ru/docs/prog/ruby.html) - matz
 * [Учись программировать](http://www.shokhirev.com/mikhail/ruby/ltp/title.html) - Крис Пайн
@@ -494,18 +494,18 @@
 * [Ruby Book](https://github.com/Krugloff/rus_ruby_book) - Круглов А.
 
 
-#### RSpec
+<h4 id="rspec">RSpec</h4>
 
 * [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org/ru)
 
 
-#### Ruby on Rails
+<h4 id="ruby-on-rails">Ruby on Rails</h4>
 
 * [Ruby on Rails по-русски](http://rusrails.ru)
 * [Ruby on Rails Tutorial. Изучение Rails на Примерах](http://railstutorial.ru/chapters/4_0/beginning) Майкл Хартл
 
 
-### Rust
+<h3 id="rust">Rust</h3>
 
 * [Растономикон](https://github.com/ruRust/rustonomicon)
 * [Язык программирования Rust](http://rurust.github.io/rust_book_ru)
@@ -513,7 +513,7 @@
 * [Rust Tutorial](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchitsia-programmirovaniiu-na-rust/rust-tutorial) - CoderLessons.com
 
 
-### Scala
+<h3 id="scala">Scala</h3>
 
 * [Путеводитель неофита по Scala (перевод серии статей Даниеля Вестсайда)](https://github.com/anton-k/ru-neophyte-guide-to-scala) - Антон Холомьёв
 * [Руководство по Scala](http://proselyte.net/tutorials/scala) - Евгений Сулейманов
@@ -521,23 +521,23 @@
 * [Scala Школа!](http://twitter.github.io/scala_school/ru) - Twitter
 
 
-### Scilab
+<h3 id="scilab">Scilab</h3>
 
 * [Введение в Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads)
 * [Программирование в Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads)
 
 
-### Scratch
+<h3 id="scratch">Scratch</h3>
 
 * [Креативное программирование](https://www.dropbox.com/s/qsthpk5r6gqmi6u/CreativeComputing_RUS_june2016.pdf?dl=0) (PDF)
 
 
-### Smalltalk
+<h3 id="smalltalk">Smalltalk</h3>
 
 * [Смолток: Язык и его реализация](https://sites.google.com/site/polyglotsqueak) - Адэль Голдберг, Дэвид Робсон
 
 
-### SQL
+<h3 id="sql">SQL</h3>
 
 * [Работа с MySQL, MS SQL Server и Oracle в примерах](http://svyatoslav.biz/database_book/) - Святослав Куликов (PDF)
 * [Руководство по MS SQL Server 2017](https://metanit.com/sql/sqlserver) - Евгений Попов
@@ -545,7 +545,7 @@
 * [Язык SQL. Базовый курс](https://postgrespro.ru/education/books/sqlprimer) (PDF)
 
 
-#### FirebirdSQL
+<h4 id="firebirdsql">FirebirdSQL</h4>
 
 * [Краткое руководство по миграции на Firebird 4.0](https://github.com/sim1984/fbmigrgd40/releases/download/1.0/doc.rus.pdf) - Denis Simonov (PDF)
 * [Руководство по аппаратному обеспечению для Firebird](http://www.ibase.ru/files/firebird/Firebird_Hardware_Guide_2015_rus.pdf) - IBSurgeon (PDF)
@@ -554,7 +554,7 @@
 * [Руководство по языку Firebird 4.0](http://www.ibase.ru/files/firebird/Firebird_4_0_Language_Reference_RUS.pdf) - Dmitry Filippov, Alexander Karpeikin, Alexey Kovyazin, Dmitry Kuzmenko, Denis Simonov, Paul Vinkenoog, Dmitry Emanov, Mark Rotteveel (PDF)
 
 
-#### PostgreSQL
+<h4 id="postgresql">PostgreSQL</h4>
 
 * [Документация](https://postgrespro.ru/docs/postgresql) (PDF)
 * [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html) - Linux Format
@@ -562,20 +562,20 @@
 * [PostgreSQL для начинающих](https://postgrespro.ru/education/books/introbook) - Luzanov Pavel Veniaminovich, Rogov Yegor Valerievich, Levshin Igor Viktorovich (PDF)
 
 
-### Swift
+<h3 id="swift">Swift</h3>
 
 * [Документация и туториалы](https://swiftbook.ru)
 * [Documentation](https://swift.org/documentation)
 * [Swift Tutorial](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchites-programmirovaniiu-swift/swift-tutorial) - CoderLessons.com
 
 
-### TypeScript
+<h3 id="typescript">TypeScript</h3>
 
 * [Перевод официальной документации Typescript](http://typescript-lang.ru/docs/) - George Kiselev
 * [Руководство по TypeScript](https://metanit.com/web/typescript) - Евгений Попов
 
 
-#### Angular
+<h4 id="angular">Angular</h4>
 
 > :information_source: See also &#8230; [AngularJS](#angularjs)
 
@@ -584,7 +584,7 @@
 * [Angular 5. Полное руководство](https://bxnotes.ru/conspect/angular-5-the-complete-guide/) - Maximilian Schwarzmüller
 
 
-### Unix
+<h3 id="unix">Unix</h3>
 
 * [Beyond Linux From Scratch (version * [Архитектура операционной системы Unix](http://lib.ru/BACH) - Maurice J. Bach
 * [Введение в системное администрирование UNIX](http://lib.ru/unixhelp) - Мошков Максим Евгеньевич
@@ -600,7 +600,7 @@
 * [The Linux Kernel Module Programming Guide](http://www.opennet.ru/docs/RUS/lkmpg26) - Peter Jay Salzman, Michael Burian, Ori Pomerantz
 
 
-### Vim
+<h3 id="vim">Vim</h3>
 
 * [Поваренная Книга Vim](http://www.opennet.ru/docs/RUS/vim_cookbook) - Steve Oualline
 * [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf) (PDF)

@@ -1,4 +1,4 @@
-### Index
+<h3 id="index">Index</h3>
 
 * [0 - Niezależne od języka programowania](#0---niezale%C5%BCne-od-j%C4%99zyka-programowania)
 * [Android](#android)
@@ -26,7 +26,7 @@
 * [SQL](#sql)
 
 
-### 0 - Niezależne od języka programowania
+<h3 id="0---niezależne-od-języka-programowania">0 - Niezależne od języka programowania</h3>
 
 * [Git](https://pl.wikibooks.org/wiki/Git) - Wikibooks
 * [Interaktywna platforma do nauki programowania](http://apki.org)
@@ -39,25 +39,25 @@
 * [W poszukiwaniu wyzwań 2](https://www.mimuw.edu.pl/~idziaszek/algonotes/looking-for-a-challenge-2-pl.pdf) - Zadania z AMPPZ 2011–2014 (PDF)
 
 
-### Android
+<h3 id="android">Android</h3>
 
 * [O Androidzie ludzkim głosem](https://andrzejklusiewicz-android.blogspot.com/p/bezpatny-kurs-programowania-android-java.html) - Andrzej Klusiewicz
 * [O Androidzie ludzkim głosem](http://jsystems.pl/storage/kurs_android/ebook/ebook-android.pdf) (PDF)
 * [Przybornik pragmatycznego programisty Android](http://soldiersofmobile.com/przybornik/przybornik_8_02.pdf) (PDF)
 
 
-### Assembly
+<h3 id="assembly">Assembly</h3>
 
 * [Inżynieria wsteczna dla początkujących](https://beginners.re/RE4B-PL.pdf) - Dennis Yurichev, Kateryna Rozanova, Aleksander Mistewicz, Wiktoria Lewicka, Marcin Sokołowski (PDF)
 
 
-### Bash
+<h3 id="bash">Bash</h3>
 
 * [Kurs Bash'a](http://web.archive.org/web/20180129013729/http://dief.republika.pl/kursbasha.tar.gz) (tar.gz)
 * [Programowanie w Bashu czyli jak pisać skrypty w Linuksie](https://www.arturpyszczuk.pl/files/bash/bash.pdf) - Artur Pyszczuk (PDF)
 
 
-### C
+<h3 id="c">C</h3>
 
 * [Beej's Guide to Network Programming - Używanie gniazd internetowych](http://www.asawicki.info/Mirror/Beej_s%20Guide%20to%20Network%20Programming%20PL/bgnet.pdf) - B. Hall, Przełożył Bartosz Zapałowski (PDF)
 * [Kurs C](http://qvazar.pl/kurs-c/kurs-c)
@@ -69,7 +69,7 @@
 * [Wgłąb języka C](http://helion.pl/online/wglab/wglab.zip) (ZIP)
 
 
-### <a name="csharp"></a>C\#
+<h3 id="a-namecsharpac"><a name="csharp"></a>C\#</h3>
 
 * [Darmowy kurs C#](http://kurs.aspnetmvc.pl/Csharp)
 * [Kurs C#](http://zajacmarek.com/kurs-c-sharp/) - Marek Zając
@@ -78,7 +78,7 @@
 * [Wstęp do programowania w C#](http://c-sharp.ue.katowice.pl/ksiazka/c_sharp_wer2_0.pdf) - Anna Kempa, Tomasz Staś (PDF)
 
 
-### <a name="cpp"></a>C++
+<h3 id="a-namecppac"><a name="cpp"></a>C++</h3>
 
 * [C++](https://pl.wikibooks.org/wiki/C++) - Wikibooks
 * [Język C++ – podstawy programowania](http://www.dz5.pl/ti/cpp/zz_dodatki/kurs_cpp_szczegolowy2.pdf) - Paweł Mikołajczak (PDF)
@@ -87,31 +87,31 @@
 * [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/) - Karol Kuczmarski
 
 
-### Common Lisp
+<h3 id="common-lisp">Common Lisp</h3>
 
 * [Kurs programowania w języku Common Lisp](http://jcubic.pl/lisp_tutorial.php) - Jakub Jankiewicz
 
 
-### CSS
+<h3 id="css">CSS</h3>
 
 * [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html) - Sławomir Kokłowski
 * [Kurs CSS](https://webref.pl/arena/css/css_index.html) - Arkadiusz Michalski
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](https://ferrante.pl/books/html/) - Damian Wielgosik
 
 
-### Haskell
+<h3 id="haskell">Haskell</h3>
 
 * [Haskell](https://pl.wikibooks.org/wiki/Haskell) - Wikibooks
 
 
-### HTML
+<h3 id="html">HTML</h3>
 
 * [HTML dla zielonych](http://www.kurshtml.edu.pl/html/zielony.html) - Sławomir Kokłowski
 * [KURS HTML](http://www.kurshtml.edu.pl) - Sławomir Kokłowski
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](https://ferrante.pl/books/html/) - Damian Wielgosik
 
 
-### Java
+<h3 id="java">Java</h3>
 
 * [Darmowy kurs Java](https://javastart.pl/baza-wiedzy/darmowy-kurs-java) - Sławek Ludwiczak
 * [Język Java](http://www.dz5.pl/ti/java/java_skladnia.pdf) - Jacek Rumiński (PDF)
@@ -120,7 +120,7 @@
 * [Praktyczny kurs Javy](https://kobietydokodu.pl/kurs-javy/) - Jakub Derda
 
 
-### JavaScript
+<h3 id="javascript">JavaScript</h3>
 
 * [JavaScript](https://pl.wikibooks.org/wiki/JavaScript) - Wikibooks
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/pl)
@@ -128,20 +128,20 @@
 * [Wstęp - JavaScript](http://www.kurshtml.edu.pl/js/index.html) - Sławomir Kokłowski
 
 
-### LaTeX
+<h3 id="latex">LaTeX</h3>
 
 * [LaTeX kurs](http://www.latex-kurs.x25.pl) - Przemysław Spurek
 * [LaTeX. Książka kucharska](https://ptm.org.pl/sites/default/files/latex-ksiazka-kucharska.pdf) - Marcin Borkowski, Bartłomiej Przybylski (PDF)
 * [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish) - Janusz Goldasz, Ryszard Ku­biak, To­masz Przech­lewski
 
 
-### MySQL
+<h3 id="mysql">MySQL</h3>
 
 * [Bazy Danych MYSQL](https://miroslawzelent.pl/kurs-mysql/)
 * [Kurs MySQL](http://webmade.org/kursy-online/kurs-mysql.php) - Piotr Kuźmiński
 
 
-### Perl
+<h3 id="perl">Perl</h3>
 
 * [Kurs Perl](http://zajacmarek.com/2014/10/kurs-perl-cz-1/) - Marek Zając
 * [Kurs PERL](cyberpunk.e-spin.pl/86,41,5/KOD/KURSY-PROGRAMOWANIA/Kurs-PERL)
@@ -149,7 +149,7 @@
 * [Samouczek Perl](https://www.w3big.com/pl/perl/default.html) - w3big.com
 
 
-### PHP
+<h3 id="php">PHP</h3>
 
 * [Kurs PHP](http://phpkurs.pl) - Leszek Krupiński
 * [Kurs PHP OOP](http://cyberpunk.e-spin.pl/86,37,5/KOD/KURSY-PROGRAMOWANIA/Kurs-PHP-OOP)
@@ -157,17 +157,17 @@
 * [PHP: The Right Way](http://pl.phptherightway.com) - Josh Lockhart
 
 
-#### Symfony
+<h4 id="symfony">Symfony</h4>
 
 * [Symfony 5: Szybki start](https://symfony.com/doc/5.0/the-fast-track/pl/index.html)
 
 
-### Prolog
+<h3 id="prolog">Prolog</h3>
 
 * [Programowanie w logice z ograniczeniami: Łagodne wprowadzenie dla platformy ECLiPSe](http://www.pwlzo.pl) - Antoni Niederliński
 
 
-### Python
+<h3 id="python">Python</h3>
 
 * [Biblioteka Pythona](http://www.python.rk.edu.pl) - Piotr Maliński
 * [Podstawy Pythona](http://www.python.rk.edu.pl/w/p/podstawy/) - Piotr Maliński
@@ -175,18 +175,18 @@
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 
 
-#### Django
+<h4 id="django">Django</h4>
 
 * [Kurs Django](http://www.python.rk.edu.pl/w/p/djangoindex/)
 * [Kurs Django Girls](https://tutorial.djangogirls.org/pl/) (1.11) (HTML)
 
 
-### Ruby
+<h3 id="ruby">Ruby</h3>
 
 * [Ruby](https://pl.wikibooks.org/wiki/Ruby) - Wikibooks
 
 
-### SQL
+<h3 id="sql">SQL</h3>
 
 * [Kurs SQL](https://dbadmin.net.pl/category/sql/) - Łukasz Bartnicki, (HTML) (:construction: *in process*)
 * [Kurs SQL](https://www.sqlpedia.pl/kurs-sql) - Jakub Kasprzak

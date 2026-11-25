@@ -1,4 +1,4 @@
-### Index
+<h3 id="index">Index</h3>
 
 * [C](#c)
 * [CSS](#css)
@@ -8,31 +8,31 @@
 * [PHP](#php)
 
 
-### C
+<h3 id="c">C</h3>
 
 * [C Proqramlaşdırma Dili](http://ilkaddimlar.com/ders/c-proqramlasdirma-dili)
 
 
-### CSS
+<h3 id="css">CSS</h3>
 
 * [CSS](http://ilkaddimlar.com/ders/css)
 
 
-### HTML
+<h3 id="html">HTML</h3>
 
 * [HTML](http://ilkaddimlar.com/ders/html)
 
 
-### JavaScript
+<h3 id="javascript">JavaScript</h3>
 
 * [JavaScript](http://ilkaddimlar.com/ders/javascript)
 
 
-### Linux
+<h3 id="linux">Linux</h3>
 
 * [Linux](http://ilkaddimlar.com/ders/linux)
 
 
-### PHP
+<h3 id="php">PHP</h3>
 
 * [PHP](http://ilkaddimlar.com/ders/php)

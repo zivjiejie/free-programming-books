@@ -1,4 +1,4 @@
-### Index
+<h3 id="index">Index</h3>
 
 * [0 - Meta-Listas](#0---meta-listas)
 * [1 - Agnósticos](#1---agn&#x00F3;sticos)
@@ -52,7 +52,7 @@
   * [Angular](#angular)
 
 
-### 0 - Meta-Listas
+<h3 id="0---meta-listas">0 - Meta-Listas</h3>
 
 * [Aprender Python](https://wiki.python.org.ar/aprendiendopython/) - Python Argentina
 * [Apuntes Completos de Desarrollo Web](http://jorgesanchez.net) - Jorge Sánchez
@@ -65,9 +65,9 @@
 * [Universidad Autónoma de México - Plan (2016)](http://fcasua.contad.unam.mx/apuntes/interiores/plan2016_1.php)
 
 
-### 1 - Agnósticos
+<h3 id="1---agnósticos">1 - Agnósticos</h3>
 
-#### Algoritmos y Estructuras de Datos
+<h4 id="algoritmos-y-estructuras-de-datos">Algoritmos y Estructuras de Datos</h4>
 
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) (PDF)
 * [Análisis, Diseño e Implantación de Algoritmos](http://fcasua.contad.unam.mx/apuntes/interiores/docs/20181/informatica/1/LI_1164_06097_A_Analisis_Diseno_Implantacion_Algoritmos_Plan2016.pdf) - Universidad Nacional Autónoma de México, Dr. Juan Alberto Adam Siade, et al. (PDF)
@@ -80,7 +80,7 @@
 * [Teoría sintáctico-gramatical de objetos](https://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos) (Bubok)
 
 
-#### Base de Datos
+<h4 id="base-de-datos">Base de Datos</h4>
 
 * [Apuntes de Base de Datos 1](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) (PDF)
 * [Base de Datos (2005)](http://www.uoc.edu/masters/oficiales/img/913.pdf) - Mercedes Marqués (PDF)
@@ -89,7 +89,7 @@
 * [Diseño Conceptual de Bases de Datos](https://openlibra.com/es/book/download/diseno-conceptual-de-bases-de-datos) (PDF)
 
 
-#### Ciencia Computacional
+<h4 id="ciencia-computacional">Ciencia Computacional</h4>
 
 * [Breves Notas sobre Autómatas y Lenguajes](https://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) (PDF)
 * [Breves Notas sobre Complejidad](https://lya.fciencias.unam.mx/jloa/publicaciones/complejidad.pdf) (PDF)
@@ -97,7 +97,7 @@
 * [Teoría de la Computación: Lenguajes, Autómatas, Gramáticas](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Publicaciones/Archivos_Libros/Libros_Matematicas/_Teoria_de_la_Computacion___lenguajes__automatas__gramaticas._/teoriacomputacion.pdf) - Rodrigo De Castro Korgi (PDF)
 
 
-#### Metodologías de desarrollo de software
+<h4 id="metodologías-de-desarrollo-de-software">Metodologías de desarrollo de software</h4>
 
 * [Compendio de Ingeniería del Software](http://www.navegapolis.com/files/cis.pdf) (PDF)
 * [Ingeniería de Software: Una Guía para Crear Sistemas de Información](https://web.archive.org/web/20150824055042/http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) (PDF)
@@ -107,7 +107,7 @@
 * [Scrum y XP desde las trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
 
 
-#### Misceláneos
+<h4 id="misceláneos">Misceláneos</h4>
 
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador/) (HTML)
 * [Docker](https://github.com/brunocascio/docker-espanol#docker) (Github)
@@ -117,52 +117,52 @@
 * [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf) (PDF)
 
 
-#### Sistemas Operativos
+<h4 id="sistemas-operativos">Sistemas Operativos</h4>
 
 * [Fundamentos de Sistemas Operativos](http://sistop.org/pdf/sistemas_operativos.pdf) - Gunnar Wolf et al (PDF)
 * [Sistemas Operativos](http://sistop.gwolf.org/html/biblio/Sistemas_Operativos_-_Luis_La_Red_Martinez.pdf) - Dr. David Luis la Red (PDF)
 
 
-### Android
+<h3 id="android">Android</h3>
 
 * [Curso Android](http://www.hermosaprogramacion.com/android) (HTML)
 * [Manual de Programación Android v.2.0](http://ns2.elhacker.net/timofonica/manuales/Manual_Programacion_Android_v2.0.pdf) - Salvador Gómez Oliver (PDF)
 
 
-### C
+<h3 id="c">C</h3>
 
 * [GNU/Linux: Programación de Sistemas](http://www.alcancelibre.org/filemgmt_data/files/programaciongnulinux.pdf) (PDF)
 * [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf) (PDF) (descarga directa)
 
 
-### <a name="cpp"></a>C++
+<h3 id="a-namecppac"><a name="cpp"></a>C++</h3>
 
 * [Aprenda C++ avanzado como si estuviera en primero](https://web.archive.org/web/20100701020037/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf) (PDF)
 * [Aprenda C++ básico como si estuviera en primero](https://web.archive.org/web/20100701020025/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf) (PDF)
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/) (HTML)
 
 
-### Coffeescript
+<h3 id="coffeescript">Coffeescript</h3>
 
 * [Coffeescript, un pequeño gran libro](https://leanpub.com/coffeescript) - Javi Jiménez (Leanpub cuenta requerida)
 
 
-### Ensamblador
+<h3 id="ensamblador">Ensamblador</h3>
 
 * [Lenguaje Ensamblador para PC](https://pacman128.github.io/static/pcasm-book-spanish.pdf) - Paul A.Carter (PDF)
 
 
-### Erlang
+<h3 id="erlang">Erlang</h3>
 
 * [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) - WikiLibros
 
 
-### Emacs
+<h3 id="emacs">Emacs</h3>
 
 * [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/git/?group=elisp-es) (HTML)
 
 
-### Git
+<h3 id="git">Git</h3>
 
 * [Git Immersión en Español](https://esparta.github.io/gitimmersion-spanish)
 * [Git. La guía simple](http://rogerdudler.github.io/git-guide) (HTML)
@@ -171,19 +171,19 @@
 * [Pro Git v2](http://git-scm.com/book/es/v2)
 
 
-### Go
+<h3 id="go">Go</h3>
 
 * [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) - Karl Seguin, Raúl Expósito (HTML, [PDF](https://raulexposito.com/assets/pdf/go.pdf), [EPUB](https://raulexposito.com/assets/epub/go.epub))
 * [Go en Español](https://nachopacheco.gitbooks.io/go-es/content/doc) - Nacho Pacheco (HTML)
 
 
-### Haskell
+<h3 id="haskell">Haskell</h3>
 
 * [¡Aprende Haskell por el bien de todos!](http://aprendehaskell.es/main.html) (HTML)
 * [Piensa en Haskell (ejercicios de programación funcional)](http://www.cs.us.es/~jalonso/publicaciones/Piensa_en_Haskell.pdf) (PDF)
 
 
-### HTML & CSS
+<h3 id="html--css">HTML & CSS</h3>
 
 * [99 tips para Web Development](https://fmontes.gumroad.com/l/99tips) - Freddy Montes (PDF) (se solicita email)
 * [CSS avanzado](http://librosweb.es/libro/css_avanzado) Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/css-avanzado)
@@ -196,7 +196,7 @@
 * [Introducción a CSS](http://librosweb.es/libro/css/) - Javier Eguíluz (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-css)
 
 
-### Java
+<h3 id="java">Java</h3>
 
 * [Aprendiendo Java y POO (2008)](https://openlibra.com/es/book/download/aprendiendo-java-y-poo) (PDF)
 * [Desarrollando con Java 8: Poker](https://ia601504.us.archive.org/21/items/DesarrollandoConJava8Poker/DesarrollandoConJava8Poker.pdf) -David Pérez Cabrera (PDF)
@@ -212,7 +212,7 @@
 * [Tutorial introducción a Maven 3](http://static1.1.sqspcdn.com/static/f/923743/15025126/1320942755733/Tutorial_de_Maven_3_Erick_Camacho.pdf) - Erick Camacho (PDF)
 
 
-### JavaScript
+<h3 id="javascript">JavaScript</h3>
 
 * [El Tutorial de JavaScript Moderno](https://es.javascript.info) (HTML)
 * [Guía de JavaScript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) (HTML)
@@ -224,7 +224,7 @@
 * [Manual de JavaScript](https://desarrolloweb.com/manuales/manual-javascript.html#capitulos20) (HTML)
 
 
-#### AngularJS
+<h4 id="angularjs">AngularJS</h4>
 
 > :information_source: Véase también &#8230; [Angular](#angular)
 
@@ -234,23 +234,23 @@
 * [Manual de AngularJS](https://desarrolloweb.com/manuales/manual-angularjs.html) - desarrolloweb.com (HTML, PDF, EPUB, Kindle)
 
 
-#### D3.js
+<h4 id="d3js">D3.js</h4>
 
 * [Tutorial de D3](http://gcoch.github.io/D3-tutorial/index.html) (HTML)
 
 
-#### jQuery
+<h4 id="jquery">jQuery</h4>
 
 * [Fundamentos de jQuery](https://librosweb.es/libro/fundamentos_jquery) (HTML) [(PDF)](https://openlibra.com/es/book/download/fundamentos-de-jquery)
 * [Manual de jQuery](http://mundosica.github.io/tutorial_hispano_jQuery/) (HTML)
 
 
-#### Node.js
+<h4 id="nodejs">Node.js</h4>
 
 * [Introducción a Node.js a través de Koans](http://nodejskoans.com)
 
 
-#### React
+<h4 id="react">React</h4>
 
 * [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux) - Sergio Xalambrí (PDF, EPUB, MOBI; Leanpub cuenta requerida)
 * [Descubre React](https://leanpub.com/descubre-react) - Javi Jiménez (HTML, PDF, EPUB, MOBI; Leanpub cuenta requerida)
@@ -258,12 +258,12 @@
 * [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen (HTML, PDF)
 
 
-### LaTeX
+<h3 id="latex">LaTeX</h3>
 
 * [La introducción no-tan-corta a LaTeX 2ε](http://osl.ugr.es/CTAN/info/lshort/spanish/lshort-a4.pdf) (PDF)
 
 
-### Linux
+<h3 id="linux">Linux</h3>
 
 * [Bases de la Programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html) (HTML)
 * [BASH Scripting Avanzado: Utilizando Declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123) (descarga directa)
@@ -271,31 +271,31 @@
 * [El Manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable/) (HTML) [(PDF, ePub, Mobi)](https://debian-handbook.info/get/now/)
 
 
-### Matemáticas
+<h3 id="matemáticas">Matemáticas</h3>
 
 * [Sage para Estudiantes de Pregrado](http://www.sage-para-estudiantes.com) - Gregory Bard
 
 
-### .NET (C# / Visual Studio)
+<h3 id="net-c--visual-studio">.NET (C# / Visual Studio)</h3>
 
 * [El lenguaje de programación C#](http://dis.um.es/~bmoros/privado/bibliografia/LibroCsharp.pdf) (PDF)
 * [Guía de Arquitectura N-capas Orientadas al Dominio](https://blogs.msdn.microsoft.com/cesardelatorre/2010/03/11/nuestro-nuevo-libro-guia-de-arquitectura-n-capas-ddd-net-4-0-y-aplicacion-ejemplo-en-disponibles-para-download-en-msdn-y-codeplex) (HTML)
 
 
-### NoSQL
+<h3 id="nosql">NoSQL</h3>
 
-#### MongoDB
+<h4 id="mongodb">MongoDB</h4>
 
 * [El pequeño libro MongoDB](https://github.com/uokesita/the-little-mongodb-book)
 * [MongoDB en español: T1, El principio](https://dpdc.gitbooks.io/mongodb-en-espanol-tomo-1/content) - Yohan Graterol (Gitbook) (:construction: *en proceso*)
 
 
-#### Redis
+<h4 id="redis">Redis</h4>
 
 * [El pequeño libro Redis](https://raulexposito.com/the-little-redis-book-en-castellano.html) - Karl Seguin (HTML, PDF, EPUB)
 
 
-### PHP
+<h3 id="php">PHP</h3>
 
 * [Domain Driven Design with PHP (Diseño guiado por Dominio con PHP)](https://www.youtube.com/playlist?list=PLfgj7DYkKH3DjmXTOxIMs-5fcOgDg_Dd2) - Carlos Buenosvinos Zamora (Youtube playlist)
 * [Manual de estudio introductorio al lenguaje PHP procedural](https://web.archive.org/web/20140209203630/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf) (PDF)
@@ -307,24 +307,24 @@
 * [Symfony 2.4, el libro oficial](http://librosweb.es/libro/symfony_2_4/) (HTML) [(PDF)](https://openlibra.com/es/book/download/manual-de-symfony2-ver-2-0-12)
 
 
-#### Symfony
+<h4 id="symfony">Symfony</h4>
 
 * [Symfony 5: La Vía Rápida](https://symfony.com/doc/5.0/the-fast-track/es/index.html)
 
 
-### Perl
+<h3 id="perl">Perl</h3>
 
 * [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf) (PDF)
 * [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf) (PDF)
 * [Tutoriales de Perl](http://perlenespanol.com/tutoriales/) (HTML)
 
 
-### Perl 6 / Raku
+<h3 id="perl-6--raku">Perl 6 / Raku</h3>
 
 * [Piensa en Perl 6](https://uzluisf.gitlab.io/piensaperl6/) (PDF)
 
 
-### Python
+<h3 id="python">Python</h3>
 
 * [Aprenda a pensar como un programador (con Python)](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/) (HTML)
@@ -337,18 +337,18 @@
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
 
 
-#### Django
+<h4 id="django">Django</h4>
 
 * [Guía Oficial de Django](https://docs.djangoproject.com/es/3.2/) (3.2) (HTML)
 * [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/) (2.2.4) (HTML)
 
 
-#### Web2py
+<h4 id="web2py">Web2py</h4>
 
 * [Web2py - Manual de Referencia Completo, 5a Edición](http://www.web2py.com/books/default/chapter/41) (HTML)
 
 
-### Ruby
+<h3 id="ruby">Ruby</h3>
 
 * [Aprende a programar con Ruby](http://rubysur.org/aprende.a.programar) (Gitbook)
 * [La Guía de Estilos de Ruby](https://github.com/alemohamad/ruby-style-guide/blob/master/README-esLA.md#preludio) (Github)
@@ -356,12 +356,12 @@
 * [Ruby tutorial o cómo pasar un buen rato programando](http://rubytutorial.wikidot.com/introduccion) (HTML)
 
 
-#### Ruby on Rails
+<h4 id="ruby-on-rails">Ruby on Rails</h4>
 
 * [Introducción a Rails](http://rubysur.org/introduccion.a.rails/) (Gitbook)
 
 
-### R
+<h3 id="r">R</h3>
 
 * [Cartas sobre Estadística de la Revista Argentina de Bioingeniería](http://cran.r-project.org/doc/contrib/Risk-Cartas-sobre-Estadistica.pdf) (PDF)
 * [Generación automática de reportes con R y LaTeX](http://cran.r-project.org/doc/contrib/Rivera-Tutorial_Sweave.pdf) (PDF)
@@ -373,35 +373,35 @@
 * [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf) (PDF)
 
 
-### Scala
+<h3 id="scala">Scala</h3>
 
 * [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) (PDF)
 * [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) *(:construction: En proceso)*
 
 
-### Scratch
+<h3 id="scratch">Scratch</h3>
 
 * [Informática Creativa](https://github.com/programamos/GuiaScratch) (PDF)
 * [Manual de Scratch 2](https://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/Aprenda%20a%20programar%20con%20Scratch%20en%20un%20par%20de%20tardes.pdf) (PDF)
 
 
-### SQL
+<h3 id="sql">SQL</h3>
 
 * [Manual de SQL](http://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html) (HTML)
 * [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/) (HTML)
 
 
-### Subversion
+<h3 id="subversion">Subversion</h3>
 
 * [Control de versiones con Subversion](http://svnbook.red-bean.com/nightly/es/index.html) (HTML)
 
 
-### SVG
+<h3 id="svg">SVG</h3>
 
 * [Scalable. Un libro sobre SVG](https://leanpub.com/scalable/) (Leanpub cuenta requerida)
 
 
-### TypeScript
+<h3 id="typescript">TypeScript</h3>
 
 * [Aprendizaje TypeScript](https://riptutorial.com/Download/typescript-es.pdf) - riptutorial (PDF)
 * [Introduccion a TypeScript](https://khru.gitbooks.io/typescript/) - Emmanuel Valverde Ramos (HTML) (GitBook)
@@ -409,7 +409,7 @@
 * [Uso avanzado de TypeScript en un ejemplo real](https://neliosoftware.com/es/blog/uso-avanzado-de-typescript/) - Nelio Software (HTML)
 
 
-#### Angular
+<h4 id="angular">Angular</h4>
 
 > :information_source: Véase también &#8230; [AngularJS](#angularjs)
 

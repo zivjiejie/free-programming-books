@@ -1,4 +1,4 @@
-### Index
+<h3 id="index">Index</h3>
 
 * [0 - Agnostico](#0---agnostico)
   * [Algoritmi e Strutture Dati](#algoritmi-e-strutture-dati)
@@ -39,31 +39,31 @@
 * [Visual Basic](#visual-basic)
 
 
-### 0 - Agnostico
+<h3 id="0---agnostico">0 - Agnostico</h3>
 
-#### Algoritmi e Strutture Dati
+<h4 id="algoritmi-e-strutture-dati">Algoritmi e Strutture Dati</h4>
 
 * [Appunti di Analisi e Progettazione di Algoritmi](https://www.sci.unich.it/~acciaro/corsoASD.pdf) - V. Acciaro T. Roselli e V. Marengo (PDF)
 * [Progetto e Analisi di Algoritmi](http://bertoni.di.unimi.it/Algoritmi_e_Strutture_Dati.pdf) - A. Bertoni e M. Goldwurm (PDF)
 
 
-#### Metodologie di sviluppo del software
+<h4 id="metodologie-di-sviluppo-del-software">Metodologie di sviluppo del software</h4>
 
 * [Analisi e progettazione del software](http://www.diegm.uniud.it/schaerf/APS/Dispensa_APS_2_3.pdf) - S. Ceschia e A. Schaerf (PDF)
 * [Programmazione Funzionale](http://minimalprocedure.pragmas.org/writings/programmazione_funzionale/programmazione_funzionale.html)
 
 
-#### Open source
+<h4 id="open-source">Open source</h4>
 
 * [Open Source - Analisi di un movimento](http://www.apogeonline.com/2002/libri/88-503-1065-X/ebook/pdf/OpenSource.pdf) - N. Bassi (PDF)
 
 
-#### Sistemi
+<h4 id="sistemi">Sistemi</h4>
 
 * [Programmazione di Sistema in Linguaggio C - Esempi ed esercizi](https://www.disi.unige.it/person/DelzannoG/BIOMED/Programmazione-C/dispense_avanzate_C.pdf) - V. Gervasi, S. Pelagatti, S. Ruggieri, F. Scozzari, A. Sperduti (PDF)
 
 
-#### Storia dell'informatica
+<h4 id="storia-dellinformatica">Storia dell'informatica</h4>
 
 * [Breve storia dell'informatica](http://apav.it/informatica_file1.pdf) - F. Eugeni (PDF)
 * [Corso di storia dell'informatica](http://nid.dimi.uniud.it/computing_history/computing_history.html) - C. Bonfanti e P. Giangrandi (PDF)
@@ -72,23 +72,23 @@
 * [Storia dell'informatica](http://www.dsi.unive.it/~pelillo/Didattica/Storia%20dell'informatica/) - M. Pelillo (PDF)
 
 
-### Android
+<h3 id="android">Android</h3>
 
 * [Guida Android](http://www.html.it/guide/guida-android/) (HTML)
 
 
-### Assembly Language
+<h3 id="assembly-language">Assembly Language</h3>
 
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
 * [Reverse Engineering per Principianti](https://beginners.re/RE4B-IT.pdf) - Dennis Yurichev, Federico Ramondino, Paolo Stivanin, Fabrizio Bertone, Matteo Sticco, Marco Negro et al. (PDF)
 
 
-### BASH
+<h3 id="bash">BASH</h3>
 
 * [Guida avanzata per la bash](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/abs-guide.pdf) (PDF)
 
 
-### C
+<h3 id="c">C</h3>
 
 * [Guida di Beej alla Programmazione di Rete - Usando Socket Internet](http://linguaggioc.altervista.org/dl/GuidaDiBeejAllaProgrammazioneDiRete.pdf) - B. Hall, Tradotto da Fabrizio Pani (PDF)
 * [Il linguaggio C - Guida pratica alla programmazione](https://eineki.files.wordpress.com/2010/02/guidac.pdf) - (PDF)
@@ -97,23 +97,23 @@
 * [Tricky C](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/Tricky_C.pdf) (PDF)
 
 
-### <a name="csharp"></a>C\#
+<h3 id="a-namecsharpac"><a name="csharp"></a>C\#</h3>
 
 * [ABC# - Guida alla programmazione](http://antoniopelleriti.it/wp-content/uploads/2019/04/ABCsharp-guida-alla-programmazione-in-csharp.pdf) - A. Pelleriti (PDF)
 
 
-### <a name="cpp"></a>C++
+<h3 id="a-namecppac"><a name="cpp"></a>C++</h3>
 
 * [Corso C++ standard](http://didatticait.altervista.org/programmazione/CPP/CPP-dispense/CORSO_C.pdf) - (PDF)
 * [Il linguaggio C++](https://hpc-forge.cineca.it/files/CoursesDev/public/2012%20Autumn/Introduzione%20alla%20programmazioni%20a%20oggetti%20in%20C++/corsocpp.pdf) - (PDF)
 
 
-### CSS
+<h3 id="css">CSS</h3>
 
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
 
 
-### Database
+<h3 id="database">Database</h3>
 
 * [Basi di Dati](http://dbdmg.polito.it/wordpress/teaching/basi-di-dati/) - Apiletti e Cagliero (Politecnico di Torino)
 * [La progettazione dei database relazionali](http://www.crescenziogallo.it/unifg/medicina/TSRM/master_bioimmagini/db/Teoria_pratica_progettazione_db_relazionali.pdf) - C. Gallo (PDF)
@@ -121,12 +121,12 @@
 * [Progettare database NoSQL: la guida](http://www.html.it/guide/progettare-database-nosql/?cref=system) (HTML)
 
 
-#### Git
+<h4 id="git">Git</h4>
 
 * [Pro Git](https://git-scm.com/book/it) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
 
 
-#### NoSQL
+<h4 id="nosql">NoSQL</h4>
 
 * [Guida MongoDB](http://www.html.it/guide/guida-mongodb/?cref=system) (HTML)
 * [Guida OrientDB](http://www.html.it/guide/guida-orientdb/?cref=system) (HTML)
@@ -134,30 +134,30 @@
 * [Redis: la guida](http://www.html.it/guide/redis-la-guida/?cref=system) (HTML)
 
 
-#### Relazionali
+<h4 id="relazionali">Relazionali</h4>
 
 * [Guida a MySQL](http://www.crescenziogallo.it/unifg/agraria/ISLA/SEI1/2016-2017/UD5/Guida%20MySql.pdf) - C. Gallo (PDF)
 
 
-#### SQL
+<h4 id="sql">SQL</h4>
 
 * [Guida linguaggio SQL](http://www.html.it/guide/guida-linguaggio-sql/?cref=system) (HTML)
 
 
-### Golang
+<h3 id="golang">Golang</h3>
 
 * [Golang](http://www.vittal.it/wp-content/uploads/2019/01/golang.pdf) - V.Albertoni (PDF)
 * [The Little Go Book](https://github.com/francescomalatesta/the-little-go-book-ita) - Karl Seguin, Francesco Malatesta ([HTML](https://github.com/francescomalatesta/the-little-go-book-ita/blob/master/it/go.md))
 
 
-### HTML
+<h3 id="html">HTML</h3>
 
 * [Canoro sito](http://canoro.altervista.org/guide/html/GuidaHTML22.pdf) (PDF)
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
 * [INFN di Milano](http://www.mi.infn.it/~calcolo/corso_base_html/pdf/corso_base_html.pdf) (PDF)
 
 
-### Java
+<h3 id="java">Java</h3>
 
 * [Appendici del manuale di Java 9](https://www.hoepli.it/editore/hoepli_file/download_pub/978-88-203-8302-2_Java9-Appendici.pdf) - C. De Sio Cesari (PDF)
 * [Esercitazioni di Spring Boot](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-0-come-impostare-un-progetto/) - M. Cicolella (HTML)
@@ -173,7 +173,7 @@
 * [Object Oriented && Java 5 (II Edizione)](http://www.claudiodesio.com/download/oo_&&_java_5.zip) - Claudio De Sio Cesari (ZIP)
 
 
-### JavaScript
+<h3 id="javascript">JavaScript</h3>
 
 * [Corso completo Javascript](https://www.grimaldi.napoli.it/pdf/manuale_unite_224_2_html_1000213680.pdf) - [HTML.it](http://www.html.it) _Anno di pubblicazione_ 2005 (PDF)
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF) (Includo anche Jquery)
@@ -181,7 +181,7 @@
 * [Guida Javascript](https://www.html.it/guide/guida-javascript-di-base/) - Andrea Chiarelli, Davide Brognoli, Alberto Bottarini, Ilario Valdelli (HTML)
 
 
-#### AngularJS
+<h4 id="angularjs">AngularJS</h4>
 
 > :information_source: Vedi anche &#8230; [Angular](#angular)
 
@@ -189,12 +189,12 @@
 * [Guida AngularJS](https://www.html.it/guide/guida-angularjs/) - Andrea Chiarelli (HTML)
 
 
-### Kotlin
+<h3 id="kotlin">Kotlin</h3>
 
 * [Kotlin](http://www.vittal.it/wp-content/uploads/2019/07/kotlin.pdf) - V. Albertoni (PDF)
 
 
-### LaTeX
+<h3 id="latex">LaTeX</h3>
 
 * [Appunti di programmazione in LaTeX e TeX](http://profs.sci.univr.it/~gregorio/introtex.pdf) - Enrico Gregorio (PDF)
 * [Il LaTex mediante esempi](http://www.discretephysics.org/MANUALI/Latex.pdf) - E. Tonti (PDF)
@@ -208,34 +208,34 @@
 * [Una (mica tanto) breve introduzione a LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/italian)
 
 
-### Linux
+<h3 id="linux">Linux</h3>
 
 * [«a2», ex «Appunti di informatica libera», ex «Appunti Linux»](http://archive.org/download/AppuntiDiInformaticaLibera/)
 
 
-### Livecode
+<h3 id="livecode">Livecode</h3>
 
 * [Guida a livecode](http://www.maxvessi.net/pmwiki/pmwiki.php?n=Main.GuidaALivecode)
 
 
-### Perl
+<h3 id="perl">Perl</h3>
 
 * [Corso di Perl](http://www.webprog.net/public/corso_perl.pdf) - M. Beltrame (PDF)
 * [Introduzione al Perl](http://www.aquilante.net/perl/perl.pdf) - M. Liverani - _Anno di pubblicazione_ 1996 (PDF)
 
 
-### PHP
+<h3 id="php">PHP</h3>
 
 * [Guida PHP](http://www.html.it/guide/guida-php-di-base/?cref=development) (HTML)
 * [Manuale PHP](http://francescomuscolo.altervista.org/manuale_PHP.pdf) (PDF)
 
 
-#### Symfony
+<h4 id="symfony">Symfony</h4>
 
 * [Symfony 5: guida rapida](https://symfony.com/doc/5.0/the-fast-track/it/index.html)
 
 
-### Python
+<h3 id="python">Python</h3>
 
 * [Il manuale di riferimento di Python](http://docs.python.it/html/ref/)
 * [Il tutorial di Python](http://docs.python.it/html/tut/)
@@ -245,25 +245,25 @@
 * [Python per tutti: Esplorare dati con Python3](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.pdf) - Dr. Charles Russell Severance (PDF) [(EPUB)](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.epub)
 
 
-#### Django
+<h4 id="django">Django</h4>
 
 * [Il tutorial di Django Girls](https://tutorial.djangogirls.org/it/) (1.11) (HTML) (:construction: *in process*)
 
 
-### Ruby
+<h3 id="ruby">Ruby</h3>
 
 * [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf) (PDF)
 * [Programmazione elementare in Ruby](http://minimalprocedure.pragmas.org/writings/programmazione_elementare_ruby/corso_elementare_ruby.html)
 * [Ruby User Guide](https://web.archive.org/web/20161102011319/http://ruby-it.org/rug_it.zip)
 
 
-### TypeScript
+<h3 id="typescript">TypeScript</h3>
 
 * [Guida TypeScript](https://www.html.it/guide/guida-typescript/) - Andrea Chiarelli (HTML)
 * [TypeScript Deep Dive](https://github.com/TizioFittizio/typescript-book) - Basarat Ali Syed, Luca Campana (HTML) (GitBooks)
 
 
-#### Angular
+<h4 id="angular">Angular</h4>
 
 > :information_source: Vedi anche &#8230; [AngularJS](#angularjs)
 
@@ -272,12 +272,12 @@
 * [Guida di Angular 5](http://vbgraphic.altervista.org/warehouse/sites/default/files/downloads/Guida_Angular5_FabioGuerrazzi.pdf) - Fabio Guerrazzi (PDF)
 
 
-### UML
+<h3 id="uml">UML</h3>
 
 * [Appunti di UML](http://liuct.altervista.org/download/repository/ingsof/Appunti_UML.pdf) (PDF)
 * [Introduzione alla gestione del progetto software con UML](http://areaprofessional.com/documenti/D03_IntroGestioneProgettoSW.pdf) - G. Destri (PDF)
 
 
-### Visual Basic
+<h3 id="visual-basic">Visual Basic</h3>
 
 * [Corso Visual Basic](http://www.webalice.it/kindofapple/corsovb.pdf) (PDF)

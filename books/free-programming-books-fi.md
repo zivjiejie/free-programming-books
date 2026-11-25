@@ -1,4 +1,4 @@
-### Index
+<h3 id="index">Index</h3>
 
 * [C](#c)
 * [C#](#csharp)
@@ -12,7 +12,7 @@
 * [Ruby](#ruby)
 
 
-### Kieliagnostinen
+<h3 id="kieliagnostinen">Kieliagnostinen</h3>
 
 * [Kisakoodarin käsikirja](https://www.cs.helsinki.fi/u/ahslaaks/kkkk.pdf) - Antti Laaksonen (PDF)
 * [Ohjelmoinnin peruskurssi Y1 - Opetusmoniste syksy 2017](https://grader.cs.hut.fi/static/y1/) - Kerttu Pollari-Malmi
@@ -22,19 +22,19 @@
 * [Tietorakenteet ja algoritmit](https://www.cs.helsinki.fi/u/ahslaaks/tirakirja/) - Antti Laaksonen (PDF)
 
 
-### C
+<h3 id="c">C</h3>
 
 * [C](https://fi.wikibooks.org/wiki/C) - Wikikirjasto
 * [C-ohjelmointi](http://www.ohjelmointiputka.net/oppaat/opas.php?tunnus=c_esittaja)
 * [Ohjelmoinnin perusteet ja C-kieli](http://cs.stadia.fi/~silas/ohjelmointi/c_opas) - Simo Silander
 
 
-### <a name="csharp"></a>C\#
+<h3 id="a-namecsharpac"><a name="csharp"></a>C\#</h3>
 
 * [Ohjelmointi 1: C#](https://jyx.jyu.fi/bitstream/handle/123456789/47417/978-951-39-4859-7.pdf) - Martti Hyvönen, Vesa Lappalainen, Antti-Jussi Lakanen (PDF)
 
 
-### <a name="cpp"></a>C++
+<h3 id="a-namecppac"><a name="cpp"></a>C++</h3>
 
 * [C++](https://fi.wikibooks.org/wiki/C%2B%2B) - Wikikirjasto
 * [C++-ohjelmointi](https://www.ohjelmointiputka.net/oppaat/opas.php?tunnus=cpp_ohj_01)
@@ -42,34 +42,34 @@
 * [Olioiden ohjelmointi C++:lla](https://web.archive.org/web/20170918213135/http://www.cs.tut.fi/~oliot/kirja/olioiden-ohjelmointi-uusin.pdf) - Matti Rintala, Jyke Jokinen (PDF) *(:card_file_box: archived)*
 
 
-### Java
+<h3 id="java">Java</h3>
 
 * [Olio-ohjelmointi Javalla](http://urn.fi/URN:ISBN:978-952-265-754-1) - Antti Herala, Erno Vanhala, Uolevi Nikula (PDF)
 * [Sopimuspohjainen olio-ohjelmointi Java-kielellä](http://staff.cs.utu.fi/staff/jouni.smed/SHR07-SPOO.pdf) - Jouni Smed, Harri Hakonen, Timo Raita (PDF)
 
 
-### JavaScript
+<h3 id="javascript">JavaScript</h3>
 
 * [JavaScript](https://fi.wikibooks.org/wiki/JavaScript) - Wikikirjasto
 
 
-### MySQL
+<h3 id="mysql">MySQL</h3>
 
 * [MySQL ja PHP](https://www.ohjelmointiputka.net/oppaat/opas.php?tunnus=mysqlphp01)
 
 
-### OpenGL
+<h3 id="opengl">OpenGL</h3>
 
 * [OpenGL](https://fi.wikibooks.org/wiki/OpenGL) - Wikikirjasto (:construction: *keskeneräinen*)
 
 
-### PHP
+<h3 id="php">PHP</h3>
 
 * [PHP](https://fi.wikibooks.org/wiki/PHP) - Wikikirjasto
 * [PHP-ohjelmointi](http://www.ohjelmointiputka.net/oppaat/opas.php?tunnus=php_01)
 
 
-### Python
+<h3 id="python">Python</h3>
 
 * [Python 2](https://fi.wikibooks.org/wiki/Python_2) - Wikikirjasto
 * [Python 3](https://fi.wikibooks.org/wiki/Python_3) - Wikikirjasto
@@ -77,12 +77,12 @@
 * [Python-ohjelmointi](http://www.ohjelmointiputka.net/oppaat/opas.php?tunnus=python3_01)
 
 
-### R
+<h3 id="r">R</h3>
 
 * [Ohjelmointi ja tilastolliset menetelmät](https://users.syk.fi/~jhurri/otm/) - Jarmo Hurri (PDF)
 * [R: Opas ekologeille](https://web.archive.org/web/20160814115908/http://cc.oulu.fi/~tilel/rltk04/Rekola.pdf) - Jari Oksanen (PDF)
 
 
-### Ruby
+<h3 id="ruby">Ruby</h3>
 
 * [Ruby](https://fi.wikibooks.org/wiki/Ruby) - Wikikirjasto

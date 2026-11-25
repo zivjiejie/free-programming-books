@@ -1,4 +1,4 @@
-### Index
+<h3 id="index">Index</h3>
 
 * [0 - Programozási nyelv független](#0---programozasi-nyelv-fuggetlen)
 * [Ada](#ada)
@@ -16,7 +16,7 @@
 * [Windows Phone](#windows-phone)
 
 
-### 0 - Programozási nyelv független
+<h3 id="0---programozási-nyelv-független">0 - Programozási nyelv független</h3>
 
 * [A hitelesítés-szolgáltatókkal szembeni bizalom erősítése](http://mek.oszk.hu/03900/03943/index.phtml) - Várnai Róbert (PDF)
 * [Adatmodellezés](http://mek.oszk.hu/11100/11144/index.phtml) - Halassy Béla (Word, PDF)
@@ -27,28 +27,28 @@
 * [Prognyelvek portál](http://nyelvek.inf.elte.hu/index.php) - Felelős oktató: Nyékyné Gaizler Judit (HTML)
 
 
-### Ada
+<h3 id="ada">Ada</h3>
 
 * [Az Ada programozási nyelv](http://mek.oszk.hu/01200/01256/index.phtml) - Kozics Sándor (PDF)
 
 
-### Arduino
+<h3 id="arduino">Arduino</h3>
 
 * [Arduino programozási kézikönyv](http://avr.tavir.hu) - Brian W. Evans írása alapján fordította, kiegészítette és frissítette Cseh Róbert (PDF - regisztráció szükséges)
 
 
-### <a name="cpp"></a>C++
+<h3 id="a-namecppac"><a name="cpp"></a>C++</h3>
 
 * [Fejlett programozási technikák](http://www.ms.sapientia.ro/~manyi/teaching/c++/cpp.pdf) - Antal Margit (PDF)
 
 
-### HTML / CSS
+<h3 id="html--css">HTML / CSS</h3>
 
 * [CSS alapjai](http://weblabor.hu/cikkek/cssalapjai1) - Bártházi András (HTML)
 * [Webes szabványok](http://nagygusztav.hu/webes-szabvanyok) - Chris Mills, Ben Buchanan, Tom Hughes-Croucher, Mark Norman "Norm" Francis, Linda Goin, Paul Haine, Jen Hanen, Benjamin Hawkes-Lewis, Ben Henick, Christian Heilmann, Roger Johansson, Peter-Paul Koch, Jonathan Lane, Tommy Olsson, Nicole Sullivan és Mike West, ford.: Nagy Gusztáv (PDF)
 
 
-### Java
+<h3 id="java">Java</h3>
 
 * [CORBA-alapú elosztott alkalmazások](http://mek.oszk.hu/01400/01404/index.phtml) - Csizmazia Balázs (PDF)
 * [Fantasztikus programozás](http://mek.oszk.hu/00800/00889/index.phtml) - Bátfai Mária Erika, Bátfai Norbert (PDF)
@@ -61,24 +61,24 @@
 * [RMI](http://mek.oszk.hu/01200/01263/index.phtml) - Dékány Dániel (PDF)
 
 
-### Lego Mindstorms
+<h3 id="lego-mindstorms">Lego Mindstorms</h3>
 
 * [A MINDSTORMS EV3 robotok programozásának alapjai](https://hdidakt.hu/wp-content/uploads/2016/01/dw_74.pdf) - Kiss Róbert (PDF)
 * [Egyszerű robotika, A Mindstorms NXT robotok programozásának alapjai](http://www.banyai-kkt.sulinet.hu/robotika/Segedanyag/Egyszeru_robotika.pdf) - Kiss Róbert, Badó Zsolt (PDF)
 
 
-### LISP
+<h3 id="lisp">LISP</h3>
 
 * [A LISP programozási nyelv](http://mek.oszk.hu/07200/07258/index.phtml) - Zimányi Magdolna, Kálmán László, Fadgyas Tibor (PDF)
 
 
-### Linux
+<h3 id="linux">Linux</h3>
 
 * [A GNU/Linux programozása grafikus felületen](http://mek.oszk.hu/05500/05528/index.phtml) - Pere László (PDF)
 * [GNU/Linux segédprogramok használata](http://mek.oszk.hu/08700/08742/index.phtml) - Terék Zsolt (PDF)
 
 
-### .NET
+<h3 id="net">.NET</h3>
 
 * [C#](http://mek.oszk.hu/10300/10384/index.phtml) - Reiter István (PDF)
 * [C# programozás lépésről lépésre](http://devportal.hu) - Reiter István (PDF)
@@ -86,7 +86,7 @@
 * [Silverlight 4](http://mek.oszk.hu/10300/10382/index.phtml) - Árvai Zoltán, Csala Péter, Fár Attila Gergő, Kopacz Botond, Reiter István, Tóth László (PDF)
 
 
-### PHP
+<h3 id="php">PHP</h3>
 
 * [Drupal 6 alapismeretek](http://nagygusztav.hu/drupal-6-alapismeretek) - Nagy Gusztáv (PDF)
 * [Drupal 7 alapismeretek](http://nagygusztav.hu/drupal-7-alapismeretek) - Nagy Gusztáv (PDF)
@@ -94,12 +94,12 @@
 * [Webadatbázis-programozás](http://ade.web.elte.hu/wabp/index.html) - Horváth Győző, Tarcsi Ádám (HTML)
 
 
-### PowerShell
+<h3 id="powershell">PowerShell</h3>
 
 * [Microsoft PowerShell 2.0](http://mek.oszk.hu/10400/10402/index.phtml) - Soós Tibor (PDF)
 
 
-### Python
+<h3 id="python">Python</h3>
 
 * [Bevezetés a Pythonba példákkal](http://mek.oszk.hu/08400/08436/index.phtml) - Raphaël Marvie, ford.: Daróczy Péter (PDF)
 * [Bevezetés a wxPythonba](http://mek.oszk.hu/08400/08446/index.phtml) - Jeremy Berthet, Gilles Doge, ford.: Daróczy Péter (PDF)
@@ -107,11 +107,11 @@
 * [Tanuljunk meg programozni Python nyelven](http://mek.oszk.hu/08400/08435/index.phtml) - Gérard Swinnen, ford.: Daróczy Péter (PDF, ODT)
 
 
-#### Django
+<h4 id="django">Django</h4>
 
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/hu/) (1.11) (HTML) (:construction: *in process*)
 
 
-### Windows Phone
+<h3 id="windows-phone">Windows Phone</h3>
 
 * [Windows Phone fejlesztés lépésről lépésre](http://mek.oszk.hu/10300/10393/) - Árvai Zoltán, Fár Attila Gergő, Farkas Bálint, Fülöp Dávid, Komjáthy Szabolcs, Turóczi Attila, Velvárt András (PDF)

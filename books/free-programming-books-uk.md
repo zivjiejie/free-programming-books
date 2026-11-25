@@ -1,4 +1,4 @@
-### Index
+<h3 id="index">Index</h3>
 
 * [ClosureScript](#clojurescript)
 * [Haskell](#haskell)
@@ -13,54 +13,54 @@
 * [Ruby](#ruby)
 
 
-### ClojureScript
+<h3 id="clojurescript">ClojureScript</h3>
 
 * [Розплутаний ClojureScript](https://lambdabooks.github.io/clojurescript-unraveled) - Роман Лютіков (LambdaBooks)
 
 
-### Haskell
+<h3 id="haskell">Haskell</h3>
 
 * [Вивчити собі Хаскель на велике щастя!](http://haskell.trygub.com) - Міран Ліповача
 
 
-### HTML / CSS
+<h3 id="html--css">HTML / CSS</h3>
 
-#### Bootstrap
+<h4 id="bootstrap">Bootstrap</h4>
 
 * [Ознайомлення Bootstrap 3.3.2](http://twbs.docs.org.ua)
 
 
-### Java
+<h3 id="java">Java</h3>
 
 * [Програмування на Java для дітей, батьків, дідусів та бабусь](http://myflex.org/books/java4kids/java4kids.htm) - Яків Файн
 
 
-### JavaScript
+<h3 id="javascript">JavaScript</h3>
 
 * [Розуміння ECMAScript 6](http://understandinges6.denysdovhan.com) - Денис Довгань (LambdaBooks)
 
 
-### Language Agnostic
+<h3 id="language-agnostic">Language Agnostic</h3>
 
 * [Дизайн патерни - просто, як двері](http://designpatterns.andriybuday.com) - А. Будай
 
 
-### PHP
+<h3 id="php">PHP</h3>
 
 * [Symfony. Швидкий старт](https://symfony.com/doc/current/the-fast-track/uk/index.html) - Symfony SAS
 * [Документація Laravel 8.x](https://www.docs-laravel.site/docs/8.x/) - Laravel.su
 
 
-### Python
+<h3 id="python">Python</h3>
 
 * [Пориньте у Python 3](https://uk.wikibooks.org/wiki/Пориньте_у_Python_3) - Марк Пілігрим
 
 
-#### Django
+<h4 id="django">Django</h4>
 
 * [Навчальний посібник Django Girls](https://tutorial.djangogirls.org/uk/) (1.11) (HTML)
 
 
-### Ruby
+<h3 id="ruby">Ruby</h3>
 
 * [Маленька книга про Ruby](https://lambdabooks.github.io/thelittlebookofruby) - Сергій Гіба (LambdaBooks)

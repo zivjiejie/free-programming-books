@@ -1,4 +1,4 @@
-### Índice
+<h3 id="índice">Índice</h3>
 
 * [Agnósticos](#agnósticos)
   * [IDE / Editores](#ide--editores)
@@ -51,45 +51,45 @@
   * [Angular](#angular)
 
 
-### Agnósticos
+<h3 id="agnósticos">Agnósticos</h3>
 
-#### IDE / Editores
+<h4 id="ide--editores">IDE / Editores</h4>
 
 * [Visual Studio Code: Produtividade infinita](https://github.com/bylearn/VS-Code-Produtividade-Infinita) - Felipe Cabrera Ribeiro dos Santos
 
 
-#### Vim
+<h4 id="vim">Vim</h4>
 
 * [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva et al.
 * [Vim para Noobs](https://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza (HTML, PDF, EPUB) (*Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo*)
 * [Vimbook](https://vimbook.gitbook.io/vimbook) - Cássio Botaro (gitbook)
 
 
-#### Programação
+<h4 id="programação">Programação</h4>
 
 * [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao) - Adolfo José G. S. Baudson, Francisco César R. de Araújo (PDF)
 * [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari e Cristian Cechinel (PDF)
 * [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF)
 
 
-#### Sistemas Operacionais
+<h4 id="sistemas-operacionais">Sistemas Operacionais</h4>
 
 * [Guia Foca Linux](https://www.guiafoca.org/#download) - Gleydson Maziolli (PDF)
 * [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) (:construction: *em contínuo desenvolvimento*)
 
 
-### Android
+<h3 id="android">Android</h3>
 
 * [Google Android: Uma abordagem prática e didática](https://leanpub.com/google-android) - Rafael Guimarães Sakurai - (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
 
 
-### Assembly
+<h3 id="assembly">Assembly</h3>
 
 * [Assembly x86](https://mentebinaria.gitbook.io/assembly-x86/) - Luis Felipe, Mente Binária (gitbook)
 * [Execução de Programas: Como funcionam carregadores, ligadores e interpretadores](https://www.inf.ufpr.br/bmuller/assets/docs/livroSB.pdf) - Bruno Müller Junior (PDF)
 
 
-### C
+<h3 id="c">C</h3>
 
 * [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
 * [Curso de Programação em C - UFMG](http://www2.dcc.ufmg.br/disciplinas/pc/source/introducao_c_renatocm_deeufmg.pdf) - Renato Cardoso Mesquita (PDF)
@@ -101,47 +101,47 @@
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/)
 
 
-### <a name="csharp"></a>C\#
+<h3 id="a-namecsharpac"><a name="csharp"></a>C\#</h3>
 
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
 
 
-### <a name="cpp"></a>C++
+<h3 id="a-namecppac"><a name="cpp"></a>C++</h3>
 
 * [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
 * [Estrutura de Dados](http://calhau.dca.fee.unicamp.br/wiki/images/0/01/EstruturasDados.pdf) (PDF)
 * [Programação Orientada a Objetos em C++](http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf) (PDF)
 
 
-### Dart
+<h3 id="dart">Dart</h3>
 
 * [Dart Documentação](https://dart.dev/guides) - dart.dev
 * [Flutter para Iniciantes](https://www.flutterparainiciantes.com.br) - Rubens de Melo (gitbook)
 
 
-### Docker
+<h3 id="docker">Docker</h3>
 
 * [Descomplicando o Docker](https://livro.descomplicandodocker.com.br) - Jeferson Fernando
 * [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) - Rafael Gomes *(necessário conta no Leanpub ou e-mail válido)*
 
 
-### Engenharia de Software
+<h3 id="engenharia-de-software">Engenharia de Software</h3>
 
-#### Metodologias de Desenvolvimento de Software
+<h4 id="metodologias-de-desenvolvimento-de-software">Metodologias de Desenvolvimento de Software</h4>
 
 * [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook) *(account required)*
 * [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg) *(account required)*
 * [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) *(account required)*
 
 
-#### Arquitetura de Software
+<h4 id="arquitetura-de-software">Arquitetura de Software</h4>
 
  * [ASP.NET Core architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/modern-web-apps-azure/) (PDF)
  * [Microservices architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/) (PDF)
  * [Modernizing existing .NET apps](https://docs.microsoft.com/pt-br/dotnet/architecture/modernize-with-azure-containers/) (PDF)
 
 
-#### Outros
+<h4 id="outros">Outros</h4>
 
 * [CI - Integração Contínua Sem Desculpa](https://ci.mrprompt.com.br)
 * [Deploy em produção para desenvolvedores](https://leanpub.com/deployemprodparadevs) - Rafael Gomes *(necessário conta no Leanpub ou e-mail válido)*
@@ -149,13 +149,13 @@
 * [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)
 
 
-### Fundamentos Matemáticos Computacionais
+<h3 id="fundamentos-matemáticos-computacionais">Fundamentos Matemáticos Computacionais</h3>
 
 * [Computação: Matemática Discreta](https://educapes.capes.gov.br/bitstream/capes/432209/2/Livro_Matematica%20Discreta.pdf) - Raquel Montezuma Pinheiro Cabral (PDF)
 * [Matemática Fundacional para Computação - Em progresso](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas (:construction: *in process*)
 
 
-### Git
+<h3 id="git">Git</h3>
 
 * [Git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
@@ -163,19 +163,19 @@
 * [Pro Git](http://git-scm.com/book/pt-br/)
 
 
-### GO
+<h3 id="go">GO</h3>
 
 * [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes) - Lauren Ferreira
 * [Go - hands on](https://github.com/go-br/estudos)
 * [Go por Exemplo](http://goporexemplo.golangbr.org) - Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa (HTML)
 
 
-### Haskell
+<h3 id="haskell">Haskell</h3>
 
 * [Aprender o Haskell será um grande bem para você (tradução em andamento)](https://github.com/taylorrf/learnhaskell)
 
 
-### HTML / CSS
+<h3 id="html--css">HTML / CSS</h3>
 
 * [Apostila de HTML](https://www.telecom.uff.br/pet/petws/downloads/apostilas/HTML.pdf) - Robertha Pereira Pedroso (PDF)
 * [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/) - Caelum
@@ -184,7 +184,7 @@
 * [Websites Atendendo a Requisitos de Acessibilidade e Usabilidade](https://leanpub.com/warau) - Leonelo Dell Anhol Almeida, Maria Cecília Calani Baranauskas, Vagner Figueredo de Santana (PDF) *(Leanpub account or valid email requested)*
 
 
-### Java
+<h3 id="java">Java</h3>
 
 * [Desenvolvimento Distribuído com JavaEE](https://www.gitbook.com/book/rafaelsakurai/desenvolvimento-distribuido) - Rafael Guimarães Sakurai
 * [Imergindo na JVM](https://leanpub.com/imergindo-jvm) - Otavio Santana *(Leanpub account or valid email requested)*
@@ -195,7 +195,7 @@
 * [Programação para iniciantes](https://s3.amazonaws.com/algaworks-assets/ebooks/algaworks-livro-programacao-para-iniciantes-v1.1.pdf) (PDF)
 
 
-### JavaScript
+<h3 id="javascript">JavaScript</h3>
 
 * [Eloquente JavaScript](https://github.com/braziljs/eloquente-javascript)
 * [EXPERT JS Stack](http://stack.desenvolvedor.expert)
@@ -210,7 +210,7 @@
 * [You Don't Know JS: Tipos & Gramática](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/types%20&%20grammar/README.md)
 
 
-#### AngularJS
+<h4 id="angularjs">AngularJS</h4>
 
 > :information_source: Veja também &#8230; [Angular](#angular)
 
@@ -219,50 +219,50 @@
 * [Entendendo as diretivas e fazendo abas com AngularJS](http://tableless.com.br/diretivas-angularjs-abas/) - Diego Eis
 
 
-#### Backbone.js
+<h4 id="backbonejs">Backbone.js</h4>
 
 * [Série Backbone.js (blog.fernandomantoan.com)](http://blog.fernandomantoan.com/serie-backbone-js-parte-1-introducao/)
 * [Série Backbone.js (devfuria.com.br)](http://www.devfuria.com.br/javascript/backbone/)
 
 
-#### Ember.js
+<h4 id="emberjs">Ember.js</h4>
 
 * [Conceitos basicos do Ember.js](http://fabriciotav.org/blog/2013/02/20/conceitos-basicos-do-emberjs.html)
 * [Handlebars Helpers com Ember.js](http://fabriciotav.org/blog/2013/02/20/handlebars-helpers-com-emberjs.html)
 
 
-#### Express.js
+<h4 id="expressjs">Express.js</h4>
 
 * [Primeiros passos com Express em Node.js](http://nodebr.com/primeiros-passos-com-express-em-node-js/)
 
 
-#### Grunt
+<h4 id="grunt">Grunt</h4>
 
 * [Grunt - Voce deveria estar usando](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
 * [Grunt \| Automatizando tarefas](http://woliveiras.com.br/posts/grunt-automatizando-tarefas/)
 
 
-#### Gulp
+<h4 id="gulp">Gulp</h4>
 
 * [Gulp - O novo automatizador](http://tableless.com.br/gulp-o-novo-automatizador/)
 
 
-#### jQuery
+<h4 id="jquery">jQuery</h4>
 
 * [Artigos sobre jQuery](https://tableless.com.br/categories/jquery/)
 
 
-#### Knockout.js
+<h4 id="knockoutjs">Knockout.js</h4>
 
 * [Documentação](https://github.com/alexhiroshi/knockoutjs-brasil)
 
 
-#### Meteor
+<h4 id="meteor">Meteor</h4>
 
 * [Tudo sobre Meteor](http://udgwebdev.com/meteor/)
 
 
-#### Node.js
+<h4 id="nodejs">Node.js</h4>
 
 * [Aplicações web real-time com Node.js](https://github.com/caio-ribeiro-pereira/livro-nodejs) - Caio Ribeiro Pereira
 * [Construindo APIs testáveis com Node.js](https://leanpub.com/construindo-apis-testaveis-com-nodejs/) - Waldemar Neto *(necessário conta no Leanpub ou e-mail válido)*
@@ -270,13 +270,13 @@
 * [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
 
 
-#### React
+<h4 id="react">React</h4>
 
 * [React: JavaScript reativo](http://tableless.com.br/react-javascript-reativo/)
 * [The Road to Learn React](https://leanpub.com/the-road-to-learn-react-portuguese) *(necessário conta no Leanpub ou e-mail válido)*
 
 
-#### Vue.js
+<h4 id="vuejs">Vue.js</h4>
 
 * [Adicionar Bootstrap e Font-awesome no projeto criado com o Vue Cli](https://web.archive.org/web/20180613054310/http://www.vedovelli.com.br/frontend/adicionar-bootstrap-e-font-awesome-no-projeto-criado-com-o-vue-cli/)
 * [Documentação pt-BR](https://br.vuejs.org/v2/guide/)
@@ -285,35 +285,35 @@
 * [VueJS: Filtro para criar URL’s amigáveis](http://web.archive.org/web/20160331162636/http://carlosgartner.com.br/vuejs-filtro-para-criar-urls-amigaveis/)
 
 
-### Kubernetes
+<h3 id="kubernetes">Kubernetes</h3>
 
 * [Descomplicando Kubernetes](https://livro.descomplicandokubernetes.com.br) - Jeferson Fernando
 * [Introdução ao Kubernetes no Azure](https://docs.microsoft.com/pt-br/learn/paths/intro-to-kubernetes-on-azure/)
 
 
-### LaTeX
+<h3 id="latex">LaTeX</h3>
 
 * [Breve Introdução ao LaTeX2e](http://www.if.ufrj.br/~sandra/MetComp/doc/latex.pdf) - Lenimar Nunes de Andrade (PDF)
 * [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)
 * [Latexação](https://www.ime.usp.br/~tassio/arquivo/latex/apostila.pdf) - Tássio Naia dos Santos (PDF)
 
 
-### LISP
+<h3 id="lisp">LISP</h3>
 
 * [Introdução a linguagem LISP](http://www.dca.fee.unicamp.br/courses/EA072/lisp9596/Lisp9596.html) (HTML)
 
 
-### Lua
+<h3 id="lua">Lua</h3>
 
 * [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)
 
 
-### Pascal
+<h3 id="pascal">Pascal</h3>
 
 * [Algoritmos e Estruturas de Dados I](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Alexandre Castilho, Fabiano Silva e Daniel Weingaertner (PDF)
 
 
-### PHP
+<h3 id="php">PHP</h3>
 
 * [Api REST Com Silex no GAE](http://bit.ly/ebook-silex) - Nanderson Castro (PDF, EPUB, MOBI)
 * [CakePHP](http://book.cakephp.org/2.0/pt/index.html)
@@ -322,12 +322,12 @@
 * [PHPUnit](https://phpunit.de/manual/current/pt_br/index.html) (PDF, EPUB, MOBI)
 
 
-#### Symfony
+<h4 id="symfony">Symfony</h4>
 
 * [Symfony 5: A Trilha Rápida](https://symfony.com/doc/5.0/the-fast-track/pt_BR/index.html)
 
 
-### Python
+<h3 id="python">Python</h3>
 
 * [Aprenda computação com Python](https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html)
 * [Aprenda Python Básico - Rápido e Fácil de entender](http://felipegalvao.com.br/livros) (PDF / Epub)
@@ -344,14 +344,14 @@
 * [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/)
 
 
-#### Django
+<h4 id="django">Django</h4>
 
 * [Desenvolvimento Web com Python e Django](https://pythonacademy.com.br/ebooks/desenvolvimento-web-com-python-e-django) - Vinícius Ramos (endereço de e-mail *solicitado*, não obrigatório)
 * [Documentação do Django](https://docs.djangoproject.com/pt-br)
 * [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
 
 
-### R
+<h3 id="r">R</h3>
 
 * [Análise Exploratória de Dados usando o R](http://www.uesc.br/editora/livrosdigitais2/analiseexploratoria_r.pdf) - Enio Jelihovschi (PDF)
 * [Ciência de Dados com R](https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r/) - Paulo Oliveira, Saulo Guerra, and Robert McDonnell (email address *requested*, not required)
@@ -359,19 +359,19 @@
 * [R para cientistas sociais](http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf) - Jakson Alves de Aquino (PDF)
 
 
-### RegEx
+<h3 id="regex">RegEx</h3>
 
 * [Expressões Regulares - Guia de Consulta Rápida](http://aurelio.net/regex/guia/)
 
 
-### Ruby
+<h3 id="ruby">Ruby</h3>
 
 * [Aprenda a Programar](http://www.jmonteiro.com/aprendaaprogramar/)
 * [Conhecendo Ruby - Eustaquio Rangel](https://leanpub.com/conhecendo-ruby/read)
 * [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com)
 
 
-### Shell / Bash
+<h3 id="shell--bash">Shell / Bash</h3>
 
 * [Bash Scripting](https://meleu.gitbooks.io/bashscripting/content/) - Meleu (gitbook)
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
@@ -379,14 +379,14 @@
 * [Shell Script do Zero](http://metamorphoselinux.net/Shell_Script_do_Zero.pdf) (PDF)
 
 
-### TypeScript
+<h3 id="typescript">TypeScript</h3>
 
 * [Iniciando no TypeScript - Guia prático para os primeiros passos da linguagem](https://www.maiconsilva.com/starting-typescript/) - Maicon Silva (HTML)
 * [TypeScript Documentação](https://www.typescriptlang.org/pt/docs/)
 * [TypeScript: O guia definitivo](https://oieduardorabelo.medium.com/typescript-o-guia-definitivo-1a63b04259cc) - Eduardo Rabelo (HTML)
 
 
-#### Angular
+<h4 id="angular">Angular</h4>
 
 > :information_source: Veja também &#8230; [AngularJS](#angularjs)
 
